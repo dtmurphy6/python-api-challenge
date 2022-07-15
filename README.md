@@ -4,6 +4,6 @@ Compelted WeatherPy and VacationPy homework. Images for WeatherPy are named acco
 
 ## Three observations
 
-1. the north pole, south pole, and the equator almost always have cloud cover.
+1. The north pole, south pole, and the equator almost always have cloud cover.
 2. As we approach the equator the temperature rises which makes sense as that is the equator is the closest point to the sun.
 3. Wind speed and humidity do not have  strong correlation to latitude.
